@@ -1,7 +1,7 @@
 {
     "name": "apidemo/autobill-sdkdemo",
     "description": "AutoBill System SDK",
-    "license": "AutoBilldemo",
+    "license": "proprietary",
     "authors": [
         {
             "name": "AutoBill System Developer",
